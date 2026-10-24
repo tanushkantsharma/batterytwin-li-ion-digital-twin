@@ -1,0 +1,10 @@
+cell,discharge_idx,reason
+B0005,0,charge started above 3.9 V
+B0005,30,charge started above 3.9 V
+B0006,0,charge started above 3.9 V
+B0006,30,charge started above 3.9 V
+B0007,0,charge started above 3.9 V
+B0007,30,charge started above 3.9 V
+B0018,0,charge started above 3.9 V
+B0018,45,charge started above 3.9 V
+B0018,55,charge started above 3.9 V

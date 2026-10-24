@@ -1,0 +1,32 @@
+{
+  "Q_Ah": 2.0,
+  "R0": 0.10017383984740981,
+  "R1": 0.17616575231969037,
+  "C1": 31645.24558212842,
+  "R2": 0.0,
+  "C2": 1.0,
+  "eta_charge": 1.0,
+  "V_min": 2.0,
+  "V_max": 4.2,
+  "ocv": {
+    "type": "combined",
+    "K": [
+      3.655891800428562,
+      0.0036932237819659614,
+      -0.3243023152926346,
+      -0.015681614300175433,
+      -0.035717522863990485
+    ]
+  },
+  "fitted_on": [
+    "B0005 charge+discharge 1",
+    "B0005 charge+discharge 2"
+  ],
+  "note": "OCV identified jointly (no OCV test in dataset); Q_Ah overridden per cycle by measured capacity",
+  "train_rmse_V": 0.026277522586405977,
+  "log_param_std": {
+    "R0": 0.019880578972836807,
+    "R1": 0.0703760289346953,
+    "C1": 0.04688163625155331
+  }
+}

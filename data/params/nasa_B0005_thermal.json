@@ -1,0 +1,8 @@
+{
+  "m_cp_J_per_K": 43.965916771571614,
+  "hA_W_per_K": 0.034445636349163665,
+  "tau_s": 1276.3856741069933,
+  "T_amb_C": 24.0,
+  "fitted_on": "B0005 discharge 1 (measured surface temperature)",
+  "note": "irreversible heat only; entropic heat neglected"
+}

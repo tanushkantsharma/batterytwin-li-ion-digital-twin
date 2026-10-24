@@ -1,0 +1,6 @@
+check,dt_s,max_dV_mV_vs_dt0p1,max_dT_K_vs_dt0p1,energy_residual_rel,E_terminal_Wh,E_loss_Wh
+"electro-thermal dt convergence (1C, 0C amb, Ea assumed)",0.1,0.0,0.0,,,
+"electro-thermal dt convergence (1C, 0C amb, Ea assumed)",1.0,0.0706143387798619,0.0033716875973297533,,,
+"electro-thermal dt convergence (1C, 0C amb, Ea assumed)",10.0,0.793778538031642,0.03814640568990768,,,
+energy balance US06 x5,0.5,,,2.354116178451041e-11,2.7055352139820124,0.08406052840918764
+energy balance US06 x5,1.0,,,9.533834003834103e-11,2.705576457053772,0.08405747365712128

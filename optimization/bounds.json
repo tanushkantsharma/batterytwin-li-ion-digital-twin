@@ -1,0 +1,11 @@
+{
+  "_comment": "Box bounds for bounded least-squares ECM identification (physical units). OCV bounds are for the 5 Plett combined-model coefficients K0..K4.",
+  "synthetic": {"R0": [1e-3, 0.2], "R1": [1e-4, 0.2], "C1": [10, 2e4], "R2": [1e-4, 0.2], "C2": [1e3, 5e5]},
+  "nasa": {"R0": [1e-3, 0.3], "R1": [1e-3, 0.3], "C1": [10, 1e5], "R2": [1e-3, 0.3], "C2": [10, 1e6]},
+  "nasa_ocv": [[-10, -1, -5, -5, -5], [10, 1, 5, 5, 5]],
+  "nasa_initial": {
+    "1RC": {"R0": 0.08, "R1": 0.05, "C1": 2000},
+    "2RC": {"R0": 0.08, "R1": 0.03, "C1": 500, "R2": 0.05, "C2": 20000}
+  },
+  "n_starts": 4
+}
